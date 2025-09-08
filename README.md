@@ -11,7 +11,7 @@ sudo apt install liblua5.4-dev pkg-config
 then press enter</li>
 </ol>
 
-<h3>How to compile Superhero_Tournament</h3>
+<h3>How to compile Superhero_Tournament, Warning: the repository folder is the folder i am talking about or a folder with the repositories contents in it.</h3>
 <ol>
   <li>Put this in the terminal first then press enter except the stuff that is in parentheses and parentheses: cd directory(directory must be unique to those 2 files and that will be your project folder) with Superhero_Tournament.rs and Cargo.toml file</li>
   <li>Put this in the terminal then press enter except the stuff that is in parentheses and parentheses: cargo build (for fast compilation but not efficent application) or cargo build --release (for efficent application but not fast compilation)</li>
