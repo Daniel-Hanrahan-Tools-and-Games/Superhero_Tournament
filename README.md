@@ -1,5 +1,5 @@
 # Superhero_Tournament
-A turn-based fighting game like Pokemon Stadium but with in fight cutscenes like Dragon Ball Gokuden Legend Of The Super Sayian but it is text-based and a roguelike
+A turn-based fighting game like Pokemon Stadium but with in fight cutscenes similar to Dragon Ball Gokuden Legend Of The Super Sayian but it is text-based and a roguelike
 
 <h2>The instructions are used for Linux Mint so look for differences with your OS and adapt these instructions to your OS</h2>
 
