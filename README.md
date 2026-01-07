@@ -26,6 +26,10 @@ then press enter</li>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Superhero_Tournament_Mod">Example Mod Repository Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Superhero_Tournament_Compacted">Fantasy Computer Compacted Version Repository Page</a>
+
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Superhero_Tournament_Compacted/">Fantasy Computer Compacted Version ReadMe Page</a>
+
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Superhero_Tournament">Repository Page</a>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
