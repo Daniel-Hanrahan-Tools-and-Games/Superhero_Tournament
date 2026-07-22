@@ -38,6 +38,10 @@ then press enter</li>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Superhero_Tournament_VPLS/">Visual Programming Language System Version ReadMe Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Superhero_Tournament_Hot_Swappable">Hot Swappable Version Repository Page</a>
+
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Superhero_Tournament_Hot_Swappable/">Hot Swappable Version ReadMe Page</a>
+
 <a href="https://daniel-hanrahan-tools-and-games.github.io/MGSInfo.html">Information On Multi-Game-Systems</a>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Superhero_Tournament">Repository Page</a>
